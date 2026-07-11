@@ -97,7 +97,7 @@ game world underneath the prose.
   no starter kit — built from scratch with Cinzel/Cormorant Garamond
   typography and hand-tuned CSS
 
-## 🏆 For judges — 60-second evaluation
+## 🏆60-second evaluation
 
 | Criterion | Where to look |
 |---|---|
@@ -114,7 +114,6 @@ game world underneath the prose.
 | Input | Action |
 |---|---|
 | Click a choice | Advance the story |
-| `1`–`9` | Pick the matching choice by number |
 | `Esc` | Close journal / achievements / settings |
 
 Progress autosaves as you go; a manual save button is also available in
