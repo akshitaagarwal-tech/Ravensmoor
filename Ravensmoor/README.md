@@ -27,7 +27,7 @@
 
 - [The pitch](#-the-pitch)
 - [Why it's more than a text-adventure](#-why-its-more-than-a-text-adventure)
-- [For judges — 60-second evaluation](#-for-judges--60-second-evaluation)
+- [60-second evaluation](#-60-second-evaluation)
 - [How to play](#-how-to-play)
 - [Under the hood](#️-under-the-hood)
 - [What was built in the 24-hour window](#-what-was-built-in-the-24-hour-window)
